@@ -1,2 +1,3 @@
-# smart-mobile-app-5z1o
-A mobile application for modern development workflows
+# Smart Mobile App 5Z1O
+
+A mobile application for modern development workflows.
